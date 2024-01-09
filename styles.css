@@ -305,23 +305,3 @@ position: absolute;
     background-color:#070211;
     margin: 100px 0 0 0;
 }
-.ninefirst{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 100px;
-}
-.ninecall{
-    height: 24px;
-    width: 24px;
-    padding-right: 200px;
-}
-.ninep{
-    padding-right: 800px;
-}
-.ninepic{
-    text-align: center;
-}
-.pcall{
-    padding-right: 100px;
-}
