@@ -2,7 +2,7 @@
     font-family: 'Merriweather', serif;
 }
 .image{
-    background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('B9A1-New-Year-New-Mission/resources/Banner Image.png');
+    background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('B9A1-New-Year-New-Mission/resources/.png');
     width: 82.5%;
     height: 500px;
     background-size: cover;
